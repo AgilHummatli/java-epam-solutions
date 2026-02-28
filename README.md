@@ -155,4 +155,3 @@ A few things I didn't fully get until working through this:
 
 ---
 
-*Completed alongside full-time backend development work in C#/.NET.*
